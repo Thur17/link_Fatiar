@@ -1,4 +1,4 @@
-# link_Fatiar<div align="center">
+<div align="center">
 
 ## Olá seja bem vindo, Projeto de link's para BIO de instagram
 
@@ -10,9 +10,9 @@ A proposta desse projeto e de criar um Landing Page com os links de todas as red
 
 ### Coloque traje e vamos la conferir como ficou
 
-[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](link)
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/link_Fatiar/)
 
-[![web 1](link img )](link)
+[![web 1](https://raw.githubusercontent.com/Thur17/link_Fatiar/master/assets/img/Projeto%20final.jpeg)](https://thur17.github.io/link_Fatiar/)
 
 ## Tecnologias utilizadas
 
